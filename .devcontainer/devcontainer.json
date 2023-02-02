@@ -1,0 +1,16 @@
+{
+	"name": "Serena-Tech-Forum",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "idemlab",
+	"workspaceFolder": "/idemlab/",
+
+	"remoteEnv": {
+		"LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
+	},
+	"extensions": [
+		"eamodio.gitlens",
+		"golang.go",
+		"ms-vsliveshare.vsliveshare",
+		"yzhang.markdown-all-in-one"
+	]
+}
