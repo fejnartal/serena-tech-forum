@@ -1,0 +1,3 @@
+[submodule "cloud-service-broker"]
+	path = cloud-service-broker
+	url = https://github.com/cloudfoundry/cloud-service-broker.git

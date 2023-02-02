@@ -28,5 +28,6 @@ RUN apt-get update \
  && apt-get install -y --no-install-recommends \
       ca-certificates \
       git \
-      gpg
+      gpg \
+      ssh
  
